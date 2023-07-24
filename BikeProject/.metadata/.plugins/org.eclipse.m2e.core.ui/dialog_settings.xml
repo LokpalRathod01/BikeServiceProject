@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\2212094\Documents\workspace-spring-tool-suite-4-4.9.0.RELEASE\.metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\BikeProject"/>
+			<item value="C:\Users\2212094\Documents\workspace-spring-tool-suite-4-4.9.0.RELEASE\.metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\BikeProject\Bike"/>
+			<item value="C:\Users\2212094\Downloads\carservicecompany (1)"/>
+			<item value="C:\Users\2212094\Downloads\customer_details (1)"/>
+			<item value="C:\Users\2212094\Downloads\registration-login-spring-boot-security-thymeleaf-hibernate-master (1)"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>
